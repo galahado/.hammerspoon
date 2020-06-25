@@ -11,6 +11,7 @@ require "window-management"
 require "window-key-binding"
 require "vim-binding"
 require "app-launcher"
+require "caffein"
 
 -- -----------------------------------------------------------------------
 --                            ** For Debug **                           --
