@@ -1,5 +1,6 @@
 local appCuts = {
   d = 'EuDic',
+  e = 'Emacs',
   f = 'Finder',
   i = 'IntelliJ Idea',
   k = 'Google chrome',
